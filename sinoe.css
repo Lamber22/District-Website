@@ -1,0 +1,7 @@
+.hero-section {
+    background-image: url('Images/Hon. alex.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-weight: bold;
+}
